@@ -1,0 +1,2 @@
+# Discogs-Scrapper-BS
+My attempt to create scrapper for discogs using BeautyfullSoap Python library that turned out to be not so good idea in the end. Discogs start to drop connections after while, so there is must be pause before next connection attempt, and it require longer pauses when you make more connection attempts. So this script is really slow, but it is ok as an example of BeautifulSoup application 
